@@ -1,1 +1,1 @@
-# Simplre TodoList with ReactNative and Expo
+# Simple TodoList with ReactNative and Expo
